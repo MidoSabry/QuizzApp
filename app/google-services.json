@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972936056202",
+    "project_id": "quizzapp-2550b",
+    "storage_bucket": "quizzapp-2550b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972936056202:android:a7f50b2ae24c870c47cc73",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.quizzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972936056202-fp6gkke4olfvvcu9u4ggotomi6863mng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tvacstudio.quizzapp",
+            "certificate_hash": "83c45235963a40e6bb24e2a9572a42d3b4299b99"
+          }
+        },
+        {
+          "client_id": "972936056202-32v2h3p70n1j2d0bl2ee5qbifnv3chh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJiK0y7SZ2Z9o20KK2OWyhJV5-OimBu0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972936056202-32v2h3p70n1j2d0bl2ee5qbifnv3chh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
